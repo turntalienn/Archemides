@@ -52,6 +52,11 @@ atlassian-ide-plugin.xml
 target
 *rebel*
 *mvn*
+!mvnw
+!mvnw.cmd
+!.mvn/
+!.mvn/wrapper/
+!.mvn/wrapper/maven-wrapper.properties
 /data
 /notebooks
 /book-history.csv

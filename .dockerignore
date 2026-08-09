@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!runner/
+runner/*
+!runner/target/
+runner/target/*
+!runner/target/runner-1.0-SNAPSHOT.jar

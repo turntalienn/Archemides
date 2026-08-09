@@ -5,7 +5,6 @@ import com.turntalienn.mytrade.trading.api.ExecutionType;
 import com.turntalienn.mytrade.trading.domain.forex.order.OrderBuilder;
 import com.turntalienn.mytrade.trading.domain.forex.order.OrderDto;
 import com.turntalienn.mytrade.trading.domain.forex.order.StopOrderBuilder;
-import com.apssouza.mytrade.trading.domain.forex.order.*;
 import com.turntalienn.mytrade.trading.domain.forex.portfolio.FilledOrderDto;
 import com.turntalienn.mytrade.trading.domain.forex.common.TradingParams;
 import com.turntalienn.mytrade.trading.domain.forex.riskmanagement.stopordercreation.StopOrderDto;
